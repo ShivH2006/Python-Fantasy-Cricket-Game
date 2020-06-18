@@ -23,3 +23,4 @@ It  is Python GUI Game where you create a virtual team of real cricket players a
 ![Pic2.png](https://registrationformusingjavascript.000webhostapp.com/Python%20GUI%20Cricket%20Game/Pic%202.png)
 
 ![Pic3.png](https://registrationformusingjavascript.000webhostapp.com/Python%20GUI%20Cricket%20Game/Pic%203.png)
+[![Run on Repl.it](https://repl.it/badge/github/himanshuchauhan981/Python-Fantasy-Cricket-Game)](https://repl.it/github/himanshuchauhan981/Python-Fantasy-Cricket-Game)
